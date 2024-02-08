@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CastApp</string>
+    <string name="caps_app">Caps App</string>
+    <string name="caps_text">Caps text</string>
+</resources>
